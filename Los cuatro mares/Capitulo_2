@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Base de datos externa</title>
+   </head>
+   <body>
+      <header>
+         <h1>Musica</h1>
+      </header>
+      <main>
+  <ul>       
+     <li>    
+        <img src="Los cuatro mares/Capitulo 1/portada.png">
+    </li>
+        
+<li>
+     <img src="Los cuatro mares/Capitulo 1/Los_4_mares001.png">
+</li>
+    
+<li>
+     <img src="Los cuatro mares/Capitulo 1/Los_4_mares002.png">
+</li>
+     
+         
+<li>
+     <img src="Los cuatro mares/Capitulo 1/Los_4_mares003.png">
+</li>
+     
+         
+<li>
+     <img src="Los cuatro mares/Capitulo 1/Los_4_mares004.png">
+</li>
+     
+     <li>
+     <img src="Los cuatro mares/Capitulo 1/Los_4_mares005.png">
+</li>
+     
+     <li>
+     <img src="Los cuatro mares/Capitulo 1/Los_4_mares006.png">
+</li>
+     
+     <li>
+     <img src="Los cuatro mares/Capitulo 1/Los_4_mares007.png">
+</li>
+     
+     <li>
+     <img src="Los cuatro mares/Capitulo 1/Los_4_mares008.png">
+</li>
+     
+     <li>
+     <img src="Los cuatro mares/Capitulo 1/Los_4_mares009.png">
+</li>
+     
+     <li>
+     <img src="Los cuatro mares/Capitulo 1/Los_4_mares010.png">
+</li>
+     
+          <li>
+     <img src="Los cuatro mares/Capitulo 1/portada(2).jpg">
+</li>
+     
+  </ul>
+
+      </main>
+      <footer>
+      </footer>
+   </body>
+</html>
